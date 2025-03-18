@@ -21,7 +21,7 @@ body {
   padding: 20px;
   border-radius: 16px;
   background: transparent;
-  box-shadow: rgb(0, 0, 0) 3px 3px 6px 0px inset,
+  box-shadow: rgb(166, 160, 160) 3px 3px 6px 0px inset,
     rgba(0, 0, 0, 0.5) -3px -3px 6px 1px inset;
 }
 
